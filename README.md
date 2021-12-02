@@ -1,5 +1,5 @@
 # Common
 
-### Biblioteca que carrega as variáveis de ambiente customizadas.
+### Library that loads custom environment variables.
 
-Requerido: PHP 7.3 ou later.
+Required: PHP 7.3 ou later.
