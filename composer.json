@@ -1,0 +1,20 @@
+{
+	"name": "genildovsm/php-common",
+	"description": "Componentes comuns",
+	"type":"library",
+	"licence":"GPL-3.0-or-later",
+	"authors": [
+		{
+			"name":"Genildo Martins",
+			"email":"genildovsm@gmail.com"
+		}
+	],
+	"autoload":{
+		"psr-4":{
+			"GenildoMartins\\Environment\\":"src/"
+		}
+	},
+	"require":{
+		"php": ">=7.3"
+	}
+}
