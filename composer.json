@@ -2,7 +2,7 @@
 	"name": "genildovsm/php-common",
 	"description": "Componentes comuns",
 	"type":"library",
-	"licence":"GPL-3.0",
+	"licence":"GPL-3.0+",
 	"authors": [
 		{
 			"name":"Genildo Martins",
