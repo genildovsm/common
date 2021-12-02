@@ -1,6 +1,6 @@
 {
 	"name": "genildovsm/php-common",
-	"description": "Componentes basicos",
+	"description": "Basic components",
 	"type":"library",
 	"license":"GPL-3.0+",
 	"authors": [
