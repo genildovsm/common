@@ -7,5 +7,5 @@ Required: PHP 7.3 or later.
 ### How to install
 
 ```shell
-composer require genildovsm/php-common
+:~$ composer require genildovsm/php-common
 ```
