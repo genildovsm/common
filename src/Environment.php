@@ -8,7 +8,7 @@ class Environment
 	 * @param string $dir [Absolute path to file ".env"]
 	 * @return  void
 	 */
-	public static function load(string $dir='__DIR__')
+	public static function load($dir)
 	{
 		// Check if the file exists
 		if (!file_exists($dir.'/.env')) return false;
